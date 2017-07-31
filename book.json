@@ -2,6 +2,12 @@
     "plugins": [
         "theme-faq",
         "-fontsettings",
-        "-sharing"
-    ]
+        "-sharing",
+        "language-picker"
+    ],
+    "pluginsConfig": {
+      "language-picker": {
+        "grid-columns": 2
+      }
+    }
 }
