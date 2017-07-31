@@ -1,0 +1,9 @@
+{
+  "name": "book",
+  "version": "0.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gitbook-plugin-theme-faq": "*",
+  }
+}
