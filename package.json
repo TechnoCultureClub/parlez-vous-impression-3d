@@ -1,9 +1,31 @@
 {
-  "name": "book",
-  "version": "0.0.0",
-  "dependencies": {
+  "name": "everything-3d-printing",
+  "description": "Comprehensive book about 3D printing",
+  "version": "0.1",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.10"
   },
   "devDependencies": {
-    "gitbook-plugin-theme-faq": "*",
-  }
+    "gitbook-markdown-css": "^1.0.1",
+    "less": "^2.7.1",
+    "less-plugin-clean-css": "^1.5.1"
+  },
+  "scripts": {
+    "prepublish": "mkdir -p _assets/website; lessc -clean-css  ./src/less/website.less _assets/website/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitbookIO/theme-faq.git"
+  },
+  "author": "Techno Culture Club <boygeorge@technoculture.club>",
+  "license": "CC-BY-NC-SA",
+  "bugs": {
+    "url": "https://github.com/TechnoCultureClub/3d-printing-book/issues"
+  },
+  "contributors": [
+    {
+      "name": "Ariel Harlap",
+      "email": "ariel@technoculture.club"
+    }
+  ]
 }
