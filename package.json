@@ -1,6 +1,6 @@
 {
-  "name": "everything-3d-printing",
-  "description": "Comprehensive book about 3D printing",
+  "name": "learning-to-teach-3d-printing",
+  "description": "Comprehensive resource for learning how to teach with 3D printers.",
   "version": "0.1",
   "engines": {
     "gitbook": ">=3.0.0-pre.10"
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-faq.git"
+    "url": "https://github.com/TechnoCultureClub/3d-printing-book.git"
   },
   "author": "Techno Culture Club <boygeorge@technoculture.club>",
   "license": "CC-BY-NC-SA",
