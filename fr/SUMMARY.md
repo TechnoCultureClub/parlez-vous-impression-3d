@@ -71,20 +71,22 @@
 * [How do I choose which material to use for 3D printing?](blank.md)
 * [How do I choose which kind of 3D printer to use?](blank.md)
 * [How do I design objects that print in multiple parts?](blank.md)
-* [How do I design objects that will be strong?](blank.md)
-* [How do I design objects that will be elastic?](blank.md)
+* [How do I make my 3D designs and printed objects stronger?](blank.md)
+* [How do I make my 3D designs and printed objects more flexible?](blank.md)
 
-## **Résolution des problèmes d'imprimantes 3D**
+## Résolution des problèmes d'imprimantes 3D
 
 * [How do I maintain my 3D printer in good working condition?](blank.md)
 * [How do I figure out what caused the print to fail?](blank.md)
 * [Where can I find help for fixing my 3D printer?](blank.md)
+* [Where to buy replacement or spare parts for 3D printers?](blank.md)
 
 ## Autres ressources pour apprendre
 
 * [Where to find more help from a community of 3D enthusiasts?](blank.md)
 * [Where can I go online to learn more about 3D printing?](blank.md)
 * [What are some good books on 3D printing?](blank.md)
+* [What are some good video channels on 3D printing?](blank.md)
 * [What sort of educational activities can I do with a 3D printer?](blank.md)
 
 ## L'écosystème d'impression 3D
@@ -93,6 +95,4 @@
 * [What 3D printing services exist online?](blank.md)
 * [Where do people share their 3D print projects?](blank.md)
 * [Where can I look for inspiration for a new challenge?](blank.md)
-
-
 
