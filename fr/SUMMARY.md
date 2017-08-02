@@ -6,7 +6,7 @@
 * [Why should I care about _speaking _3D printing?](blank.md)
 * [Who created and supported this document project?](blank.md)
 * [How may I use this document?](blank.md)
-* [How may I contribute to this document](blank.md)?
+* [How may I contribute to this document?](blank.md)
 
 ## Débuter
 
