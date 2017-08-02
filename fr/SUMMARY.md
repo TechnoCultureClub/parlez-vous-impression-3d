@@ -3,7 +3,7 @@
 ## À propos de ce projet
 
 * [What and whom is this document for?](blank.md)
-* [Why should I care about _speaking _3D printing?](https://www.gitbook.com/book/technocultureclub/parlez-vous-impression-3d/edit#)
+* [Why should I care about _speaking _3D printing?](blank.md)
 * [Who created and supported this document project?](blank.md)
 * [How may I use this document?](blank.md)
 * [How may I contribute to this document](blank.md)?
