@@ -1,2 +1,3 @@
-# 3d-printing-book
-gitbook sur l'impression 3D | gitbook about 3D printing
+# Do you speak 3D printing?
+
+A resource in the form of frequently asked questions for workshop facilitators, librarians and teachers about 3D printing.
