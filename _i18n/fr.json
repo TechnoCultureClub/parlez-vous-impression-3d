@@ -1,0 +1,10 @@
+{
+    "DEFAULT_TITLE": "Centre d'Aide",
+    "CONTACT_US": "Contactez Nous",
+    "FAQ_RELATED_ARTICLES": "Articles Apparentés",
+    "FAQ_TITLE": "FAQ",
+    "GITBOOK_LINK": "Publiée avec GitBook",
+    "SEARCH_PLACEHOLDER": "Avez-vous une question ? Démandez-le ou entrer un mot clé ici.",
+    "SEARCH_RESULTS_TITLE": "<span class='search-results-count'></span> résultats trouvé pour \"<span class='search-query'></span>\"",
+    "SEARCH_NO_RESULTS_TITLE": "Désolé, il n'y a aucune résultat correspondant à votre recherche : \"<span class='search-query'></span>\""
+}

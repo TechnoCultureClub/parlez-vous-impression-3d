@@ -1,5 +1,15 @@
 {% extends "website/layout.html" %}
 
+{% block faq_header_brand %}
+<img src="http://technoculture.club/assets/images/logo_TCC_M.png" height="30" />
+{% endblock %}
+
+{% block faq_menu %}
+<ul class="nav navbar-nav navbar-right">
+    <li><a href="http://technoculture.club/contact">"CONTACT_US"|t</a></li>
+</ul>
+{% endblock %}
+
 {% block title %}
     {% if file.path == readme.file.path %}
         {{ config.title|d("DEFAULT_TITLE"|t, true) }}
