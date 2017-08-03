@@ -3,6 +3,7 @@
         "algolia",
         "search",
         "theme-faq",
+        "-lunr",        
         "-fontsettings",
         "-sharing",
         "language-picker"
