@@ -1,5 +1,7 @@
 {
     "plugins": [
+        "lunr",
+        "search",
         "theme-faq",
         "-fontsettings",
         "-sharing",
