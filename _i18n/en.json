@@ -6,5 +6,6 @@
     "GITBOOK_LINK": "Published with GitBook",
     "SEARCH_PLACEHOLDER": "Have a question? Ask or enter a search term here.",
     "SEARCH_RESULTS_TITLE": "<span class='search-results-count'></span> results for \"<span class='search-query'></span>\"",
-    "SEARCH_NO_RESULTS_TITLE": "Sorry, no results found matching \"<span class='search-query'></span>\""
+    "SEARCH_NO_RESULTS_TITLE": "Sorry, no results found matching \"<span class='search-query'></span>\"",
+    "LAST_EDIT": "Last edit"
 }
