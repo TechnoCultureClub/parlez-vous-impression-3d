@@ -1,6 +1,6 @@
 ---
 search:
-    keywords: ['3d printing']
+    keywords: ['3d printing', 'blank']
 
 ---
 This is the blank answer.
