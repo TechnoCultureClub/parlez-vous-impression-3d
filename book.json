@@ -8,7 +8,6 @@
         "-sharing",
         "language-picker"
     ],
-    "algolia": {}
     "pluginsConfig": {
       "language-picker": {
         "grid-columns": 2
