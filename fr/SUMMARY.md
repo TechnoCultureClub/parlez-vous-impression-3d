@@ -2,94 +2,94 @@
 
 ## À propos de ce projet
 
-* [What and whom is this document for?](about/what-whom.md)
-* [Why should I care about "speaking" 3D printing?](about/why-care.md)
-* [Who created and supported this document project?](about/authors-supporters.md)
-* [How may I use this document?](about/permissions.md)
-* [How may I contribute to this document?](about/contributing.md)
+* [A quoi sert ce document et à qui s'adresse-t-il ?](about/what-whom.md)
+* [Pourquoi devrais-je être intéressé à "parler" impression 3D ?](about/why-care.md)
+* [Qui a créé et soutenu ce projet ?](about/authors-supporters.md)
+* [Comment pourrais-je utiliser ce document ?](about/permissions.md)
+* [Comment pourrais-je contribuer à ce document ?](about/contributing.md)
 
 ## Débuter
 
-* [What is 3D printing?](basics/intro.md)
-* [What are different kinds of 3D printers?](basics/printer-types.md)
-* [What are the formats for 3D design files?](basics/file-formats.md)
-* [What is 3D printing used for?](basics/applications.md)
-* [What should I 3D print?](basics/inspiration.md)
-* [How much does it cost to 3D print an object?](basics/costs.md)
+* [Qu'est-ce que l'impression 3D ?](basics/intro.md)
+* [Quels sont les différents types d'imprimantes 3D ?](basics/printer-types.md)
+* [Quels sont les formats des fichiers de modélisation 3D ?](basics/file-formats.md)
+* [Pour quoi utilise-t-on l'impression 3D ?](basics/applications.md)
+* [Que devrais-je imprimer en 3D ?](basics/inspiration.md)
+* [Combien coûte l'impression d'un objet en 3D ?](basics/costs.md)
 
-## L'approvisionnement et materiels
+## L'approvisionnement et matériels
 
-* [How to choose and where to buy 3D printers?](purchasing/buy-printer.md)
-* [What accessories should I have on hand or consider purchasing for my lab?](purchasing/buy-accessories.md)
-* [Where to buy filament?](purchasing/buy-filament.md)
-* [Where to buy 3D scanning equipment?](purchasing/buy-scanner.md)
-* [Where to buy replacement or spare parts for 3D printers?](purchasing/buy-parts.md)
+* [Comment choisir et où acheter son imprimante 3D ?](purchasing/buy-printer.md)
+* [Quels accessoires devrais-je avoir sous la main ou envisager d'acheter pour mon lab ?](purchasing/buy-accessories.md)
+* [Où acheter du filament ?](purchasing/buy-filament.md)
+* [Où acheter de l'équipement pour scanner en 3D?](purchasing/buy-scanner.md)
+* [Où acheter des pièces détachées/de remplacement pour les imprimantes 3D ?](purchasing/buy-parts.md)
 
 ## Modélisation 3D ou création de dessins 3D
 
-* [Where can I find ready-made 3D design files?](modeling/downloads.md)
-* [What software should I use to for 3D modeling?](modeling/software.md)
-* [How can I use a 3D scanner to create 3D models?](modeling/scanning.md)
-* [How do I create 3D design files from an existing object?](modeling/replicating.md)
-* [Where can I learn more advanced 3D printing design?](modeling/advanced-learning.md)
+* [Où puis-je trouver des fichiers de modèles 3D prêts à l'emploi ?](modeling/downloads.md)
+* [Quel logiciel devrais-je utiliser pour modéliser en 3D ?](modeling/software.md)
+* [Comment utiliser un scanner 3D pour créer des modèles 3D ?](modeling/scanning.md)
+* [Comment créer des fichiers de modélisation 3D depuis un objet existant ?](modeling/replicating.md)
+* [Où puis-je apprendre à faire de la modélisation 3D plus poussée ?](modeling/advanced-learning.md)
 
 ## Réparer et préparer pour exporter les fichiers 3D
 
-* [How do I split an 3D model to print it in multiple parts?](repairing/split-model.md)
-* [How do I optimize a 3D model for printing?](repairing/optimize-model.md)
-* [How do I repair an 3D file?](repairing/repair-file.md)
-* [How do I export a file for printing?](repairing/export-file.md)
-* [How do I fix unprintable 3D models?](repairing/fix-model.md)
+* [Comment diviser un modèle 3D pour l'imprimer en plusieurs parties ?](repairing/split-model.md)
+* [Comment optimiser un modèle 3D avant l'impression ?](repairing/optimize-model.md)
+* [Comment réparer un fichier 3D ?](repairing/repair-file.md)
+* [Comment exporter un fichier pour l'imprimer ?](repairing/export-file.md)
+* [Comment réparer des modèles 3D non-imprimables ?](repairing/fix-model.md)
 
-## Tranchage \("slicing"\)
+## Découpage en tranches \("slicing"\)
 
-* [How do I slice my 3D design files?](slicing/slice-file.md)
-* [What is gcode and what do those codes mean?](slicing/gcode.md)
-* [What else can I do with gcode?](slicing/use-gcode.md)
-* [What is overhang and what are supports?](slicing/overhang-supports.md)
-* [What are brims, rafts and skirts?](slicing/brims-rafts-skirts.md)
+* [Comment découper mes fichiers de modélisation 3D ?](slicing/slice-file.md)
+* [Qu'est-ce que le G-code et comment fonctionne-t-il ?](slicing/gcode.md)
+* [Que puis-je faire d'autre avec le G-code ?](slicing/use-gcode.md)
+* [Qu'est-ce qu'un surplomb ou un support ?](slicing/overhang-supports.md)
+* [Que représentent des brims, rafts et skirts?](slicing/brims-rafts-skirts.md)
 
-## Production ou impression d'objects 3D
+## Impression ou production d'objets 3D
 
-* [How do I level the print platform?](printing/level-platform.md)
-* [How do I get my model to stick to the print platform?](printing/platform-adhesion.md)
-* [How do I change the filament?](printing/change-filament.md)
-* [How do I splice two filaments together?](printing/join-filament.md)
-* [Where can I go to get my design 3D printed if I don't own a 3D printer?](printing/printing-services.md)
+* [Comment niveler la plateforme d'impression ?](printing/level-platform.md)
+* [Comment faire adhérer le modèle à imprimer à la plateforme d'impression ?](printing/platform-adhesion.md)
+* [Comment changer le filament?](printing/change-filament.md)
+* [Comment raccorder deux filaments ?](printing/join-filament.md)
+* [Où aller pour imprimer si je ne possède pas d'imprimantes 3D ?](printing/printing-services.md)
 
 ## Techniques de finitions
 
-* [How do I remove the supports and rafts from my 3D prints?](finishing/remove-supports.md)
-* [How do I repair or join my 3D prints?](finishing/repair-print.md)
-* [How do I make my 3D prints food-safe?](finishing/food-safe.md)
-* [How do I smooth my 3D prints?](finishing/smooth-print.md)
-* [How do I colour or paint my 3D prints?](finishing/paint-print.md)
-* [How do I cast my 3D prints into metal?](finishing/cast-print.md)
+* [Comment enlever les supports mes modèles 3D imprimés ?](finishing/remove-supports.md)
+* [Comment réparer ou assembler mes impressions 3D ?](finishing/repair-print.md)
+* [Comment faire en sorte que mes impressions 3D soient salubres pour les aliments ?](finishing/food-safe.md)
+* [Comment lisser mes impressions 3D ?](finishing/smooth-print.md)
+* [Comment colorer ou peindre mes impressions 3D ?](finishing/paint-print.md)
+* [Comment couler du métal dans mes objets 3D ?](finishing/cast-print.md)
 
-## Considerations et choix de conception
+## Réflexions et choix de conception
 
-* [How do I choose which material to use for 3D printing?](designing/choose-material.md)
-* [How do I choose which kind of 3D printer to use?](designing/choose-printer.md)
-* [How do I design objects that print in multiple parts?](designing/multiple-part-design.md)
-* [How do I make my 3D designs and printed objects stronger?](designing/stronger.md)
-* [How do I make my 3D designs and printed objects more flexible?](designing/more-flexible.md)
+* [Comment choisir les matériaux à utiliser pour imprimer en 3D ?](designing/choose-material.md)
+* [Comment choisir l'imprimante à utiliser pour imprimer ?](designing/choose-printer.md)
+* [Comment modéliser des objets qui s'impriment en plusieurs parties ?](designing/multiple-part-design.md)
+* [Comment faire en sorte que mes modèles et mes impressions soient plus solides ?](designing/stronger.md)
+* [Comment faire en sorte que mes modèles et mes impressions soient plus flexibles ?](designing/more-flexible.md)
 
 ## Résolution des problèmes d'imprimantes 3D
 
-* [How do I maintain my 3D printer in good working condition?](troubleshooting/maintenance.md)
-* [How do I figure out what caused the print to fail?](troubleshooting/understand-fail.md)
-* [Where can I find help for fixing my 3D printer?](troubleshooting/fix-printer.md)
+* [Comment maintenir mon imprimante 3D en bon état de marche ?](troubleshooting/maintenance.md)
+* [Comment trouver la cause d'un échec d'impression ?](troubleshooting/understand-fail.md)
+* [Où trouver de l'aide pour réparer mon imprimante 3D ?](troubleshooting/fix-printer.md)
 
 ## Autres ressources pour apprendre
 
-* [Where to find more help from a community of 3D enthusiasts?](resources/community.md)
-* [Where can I go online to learn more about 3D printing?](resources/online-learning.md)
-* [What are some good books on 3D printing?](resources/books.md)
-* [What are some good video channels on 3D printing?](resources/video-channels.md)
-* [What sort of educational activities can I do with a 3D printer?](resources/activities.md)
+* [Où trouver de l'aide d'une communauté enthousiaste à propos de l'impression 3D ?](resources/community.md)
+* [Où aller sur le web pour en apprendre plus sur l'impression 3D ?](resources/online-learning.md)
+* [Quels bons livres existent à propos de l'impression 3D ?](resources/books.md)
+* [Quelles sont les bonnes vidéos existantes à propos de l'impression 3D ?](resources/video-channels.md)
+* [Quels types d'activités éducatives puis-je réaliser avec une imprimantes 3D ?](resources/activities.md)
 
-## L'écosystème d'impression 3D
+## L'écosystème de l'impression 3D
 
-* [What is the 3D printing ecosystem?](ecosystem/ecosystem.md)
-* [Where do people share their 3D print projects?](ecosystem/sharing-files.md)
-* [Where can I look for inspiration or design challenges?](ecosystem/design-challenge.md)
+* [Qu'est-ce que l'écosystème de l'impression 3D ?](ecosystem/ecosystem.md)
+* [Où les gens partagent-ils leurs modèles imprimables 3D ?](ecosystem/sharing-files.md)
+* [Où puis-je chercher de l'inspiration ou des défis de modélisation ?](ecosystem/design-challenge.md)
