@@ -1,1 +1,7 @@
-This is the answer to "What is XYZ?".
+---
+search:
+    keywords: ['3d printing', 'blank']
+
+---
+
+C'est la réponse vide.
