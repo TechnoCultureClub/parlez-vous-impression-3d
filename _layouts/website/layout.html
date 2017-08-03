@@ -79,7 +79,6 @@
     <div class="faq-page-footer">
         <a href="https://www.gitbook.com" target="_blank">{{ "GITBOOK_LINK"|t }}</a> ·
         <span>"LAST_EDIT"|t {% if book.language == 'en' %}{{ file.mtime|date('MMMM Do YYYY') }}{% else %}{{ file.mtime|date('mmmm dd YYYY') }}{% endif %}</span>
-        <span><img src="/assets/search-by-algolia.png" />
     </div>
     {% endblock %}
 {% endblock %}
