@@ -1,0 +1,4 @@
+---
+search:
+    keywords: ['printing']
+---
