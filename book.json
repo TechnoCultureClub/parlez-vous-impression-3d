@@ -12,6 +12,11 @@
     "pluginsConfig": {
       "language-picker": {
         "grid-columns": 2
+      },
+      "algolia": {
+        "index": "https://www.gitbook.com/book/technocultureclub/parlez-vous-impression-3d",
+        "applicationID": "0AMBC00GJD",
+        "publicKey": "8db9e5397cbd23553b45b1db26f01146"
       }
     }
 }
